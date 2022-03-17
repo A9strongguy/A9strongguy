@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @P.Anish Varma
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Clever Programmer
+- I own a channel named APersonWhoLikesCoding
 - 📫 How to reach me anishvarmap6@gmail.com
 
 <!---
